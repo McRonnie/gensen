@@ -1,0 +1,184 @@
+{
+  "creation_date": "2020-03-09 14:46:03",
+  "config": {
+    "ZMTBACT0001-1": {
+      "Bacteroides": {
+        "effect": "升高",
+        "score": {
+          "未检出": 1,
+          "低": 1,
+          "中": 1,
+          "高": 0
+        }
+      },
+      "Bifidobacterium": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Akkermansia": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Lactobacillus": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      }
+    },
+    "ZMTBACT0002-1": {
+      "Faecalibacterium": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Bifidobacterium": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Akkermansia": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Bacillus": {
+        "effect": "升高",
+        "score": {
+          "未检出": 1,
+          "低": 1,
+          "中": 1,
+          "高": 0
+        }
+      },
+      "Bacteroides": {
+        "effect": "升高",
+        "score": {
+          "未检出": 1,
+          "低": 1,
+          "中": 1,
+          "高": 0
+        }
+      }
+    },
+    "ZMTBACT0003-1": {
+      "Faecalibacterium": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Akkermansia": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Ruminococcus": {
+        "effect": "升高",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 0
+        }
+      },
+      "Bifidobacterium": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Escherichia": {
+        "effect": "升高",
+        "score": {
+          "未检出": 1,
+          "低": 1,
+          "中": 1,
+          "高": 0
+        }
+      },
+      "Lactobacillus": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Bacteroides": {
+        "effect": "升高",
+        "score": {
+          "未检出": 1,
+          "低": 1,
+          "中": 1,
+          "高": 0
+        }
+      }
+    },
+    "ZMTBACT0004-1": {
+      "Veillonella": {
+        "effect": "升高",
+        "score": {
+          "未检出": 1,
+          "低": 1,
+          "中": 1,
+          "高": 0
+        }
+      },
+      "Bifidobacterium": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 1
+        }
+      },
+      "Ruminococcus": {
+        "effect": "降低",
+        "score": {
+          "未检出": 0,
+          "低": 0,
+          "中": 1,
+          "高": 0
+        }
+      }
+    }
+  }
+}
